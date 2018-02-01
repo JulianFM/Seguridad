@@ -2,6 +2,7 @@ En este directorio encontrareis todos los artículos referentes a análisis de e
 
     1 -> Host discovery
         2.1 Host discovery: con nmap, nessus, metasploit y net analyzer
-    2 -> Fingerprinting
-    3 -> Port scanning
+    2 -> Port scanning
+        2.2 Port scanning con nmap
+    3 -> Fingerprinting
 
