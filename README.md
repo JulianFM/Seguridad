@@ -1,5 +1,6 @@
 # Seguridad
 
 
-Tema 1 -> Creación de un entorno de prácticas
-Tema 2 -> Análisis de entornos
+Tema 1 -> Creacion de un entorno de practicas
+
+Tema 2 -> Analisis de entornos
